@@ -1,8 +1,7 @@
 # TransCYPlate
 
 **作者**: 紫波レント / Roent Shiba  
-**ライセンス**: CC BY-NC-SA 4.0 （帰属: 紫波レント / Roent Shiba）  
-（詳しくは下部の「ライセンス」参照）
+**ライセンス**: CC BY-NC-SA 4.0 
 
 ## 概要
 
