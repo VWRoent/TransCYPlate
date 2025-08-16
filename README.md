@@ -109,8 +109,12 @@ word,en,ja,count,skip
 
 ## 謝辞
 
-ChatGPT 5 Thinking 様
+* ChatGPT 5 Thinking 様
 本プロジェクトは、紫波レントがノーコードで制作し、コードの自動生成・改善提案に ChatGPT 5 Thinking を活用しました。
+
+* Pythonプログラミング VTuber サプー 様
+本プロジェクトは、次の動画をきっかけに始動しました。gpt-ossをLM Studioで動かしてみよう！【ローカルPCで動くAI】〜初心者向け〜 Python SDKで動かす方法も解説！(https://www.youtube.com/watch?v=cm140jJiwwc)
+
 
 ## ライセンス
 
