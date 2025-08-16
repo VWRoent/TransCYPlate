@@ -34,21 +34,22 @@ TransCYPlate は、ドイツ語テキストをリアルタイムに英語（EN�
 ## インストール（例）
 
 ```bash
-# 仮想環境推奨
-python3 -m venv venv
-source venv/bin/activate
-
 # 必要なパッケージをインストール
 pip install lmstudio pillow
 ```
 
 ## 実行方法
 
+LM StudioのDeveloperでgamma-3n-e4bかgpt-oss-20bのサーバーを起動する
+
 ```bash
-python3 TransCYPlate.py
+python3 TransCYPlate_gemma3n_v1_0_18.py
+```
+もしくは
+```bash
+python3 TransCYPlate_GPToss_v1_0_18.py
 ```
 
-（実際のファイル名が `TransCYPlate_gemma3n_v1_0_18.py` 等の場合はそのファイル名を指定）
 
 ## 設定
 
